@@ -24,4 +24,8 @@ The 2018 program managed to run in 0.15626 seconds which is slightly faster than
 ## Pros and Cons of the original and refactored script in VBA
 ### Pros 
  - The Variables were all defined 
- - 
+ - The code produced the results that Steve was looking for
+
+### Cons
+ -Need for variable definition creates a more complicated looking code
+ -Having the code loop through this small set of tickers is fine, but it will cause memeory problem if the data set was much larger
