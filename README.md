@@ -1,5 +1,8 @@
 # Stocks-Analysis
+## Overview
+Steve is currently managing his parent's investment portfolio where they invested heavily into a single stock. Steve tasked us with creating a VBA script that can at a press of a button, analyze the stock's position compared to other stocks in the same industry. For this challenge, Steve tasked us with refactoring the code we originally made to see if we can make it run faster in case he wanted to re-use the code to run an analysis for thousands of stocks.
 
+## Analysis and Findings
 
 
 ## Pros and Cons of refactoring Code
