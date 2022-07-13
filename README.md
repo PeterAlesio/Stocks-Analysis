@@ -1,9 +1,9 @@
 # Stocks-Analysis
 ## Overview
-Steve is currently managing his parent's investment portfolio where they invested heavily into a single stock. Steve tasked us with creating a VBA script that can at a press of a button, analyze the stock's position compared to other stocks in the same industry. For this challenge, Steve tasked us with refactoring the code we originally made to see if we can make it run faster in case he wanted to re-use the code to run an analysis for thousands of stocks.
+ Steve is currently managing his parent's investment portfolio where they invested heavily into a single stock. Steve tasked us with creating a VBA script that can at a press of a button, analyze the stock's position compared to other stocks in the same industry. For this challenge, Steve tasked us with refactoring the code we originally made to see if we can make it run faster in case he wanted to re-use the code to run an analysis for thousands of stocks.
 
 ## Analysis and Findings
-From looking at the analyses performed in 2017 and 2018, DQ performed excellently in 2017 with an almost 200% return. However, it suffered in 2018 by going down by 63%. the performance DQ experienced seems to be industry based as the other stocks had a similar trend of performing well in 2017 and performing negativly in 2018 with a few exceptions. It is also noteworthy to mention that DQ performed the best in 2017 while then performing the worst out of all the stocks in 2018. A reason for this could be  that DQ was overvalued in 2017 and thus recieved the largest correction in their valuation in the next year.
+ From looking at the analyses performed in 2017 and 2018, DQ performed excellently in 2017 with an almost 200% return. However, it suffered in 2018 by going down by 63%. the performance DQ experienced seems to be industry based as the other stocks had a similar trend of performing well in 2017 and performing negativly in 2018 with a few exceptions. It is also noteworthy to mention that DQ performed the best in 2017 while then performing the worst out of all the stocks in 2018. A reason for this could be  that DQ was overvalued in 2017 and thus recieved the largest correction in their valuation in the next year.
 
 
 ## Pros and Cons of refactoring Code
