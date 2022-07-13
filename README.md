@@ -17,9 +17,11 @@ The 2018 program managed to run in 0.15626 seconds which is slightly faster than
 ### Pros
  - Refactoring code allows you to set up a base structure that different functionallity can be built upon at a later date
  - Can save time by not having to re-input/define variables 
+ - allows the user to optimize the code to make it run faster while using less resources
  
 ### Cons
- - After not returning to a code for a long period of time, it may appear confusing if it is messy, no comments in the whitespace, and weird overall structuring that may   cause problems for new people accessing the code and aswell for returining coders to their own work.
+ - After not returning to a code for a long period of time, it may appear confusing if it is messy, no comments in the whitespace, and weird overall structuring that may cause problems for new people accessing the code and aswell for returining coders to their own work.
+ - adding onto an orignal code to add more functionality could complicate the entire scirpt making it harder to operate and maintain.
 
 ## Pros and Cons of the original and refactored script in VBA
 ### Pros 
